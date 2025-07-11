@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\31.01.2025\\APIS\\ECommerceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7362AB3E-D194-4E91-9736-F826616CED41}|ECommerceAPI\\ECommerceAPI.csproj|d:\\31.01.2025\\apis\\ecommerceapi\\ecommerceapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7362AB3E-D194-4E91-9736-F826616CED41}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7362AB3E-D194-4E91-9736-F826616CED41}|ECommerceAPI\\ECommerceAPI.csproj|d:\\31.01.2025\\apis\\ecommerceapi\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7362AB3E-D194-4E91-9736-F826616CED41}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7362AB3E-D194-4E91-9736-F826616CED41}|ECommerceAPI\\ECommerceAPI.csproj|d:\\31.01.2025\\apis\\ecommerceapi\\ecommerceapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7362AB3E-D194-4E91-9736-F826616CED41}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\dtos\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7362AB3E-D194-4E91-9736-F826616CED41}|ECommerceAPI\\ECommerceAPI.csproj|d:\\31.01.2025\\apis\\ecommerceapi\\ecommerceapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7362AB3E-D194-4E91-9736-F826616CED41}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\models\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7362AB3E-D194-4E91-9736-F826616CED41}|ECommerceAPI\\ECommerceAPI.csproj|d:\\31.01.2025\\apis\\ecommerceapi\\ecommerceapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7362AB3E-D194-4E91-9736-F826616CED41}|ECommerceAPI\\ECommerceAPI.csproj|solutionrelative:ecommerceapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\31.01.2025\\APIS\\ECommerceAPI\\ECommerceAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Models\\Order.cs",
+              "ToolTip": "D:\\31.01.2025\\APIS\\ECommerceAPI\\ECommerceAPI\\Models\\Order.cs",
+              "RelativeToolTip": "ECommerceAPI\\Models\\Order.cs",
+              "ViewState": "AgIAAAUAAAAgMDMzMzMLwBQAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:26:48.744Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\31.01.2025\\APIS\\ECommerceAPI\\ECommerceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Program.cs",
+              "ToolTip": "D:\\31.01.2025\\APIS\\ECommerceAPI\\ECommerceAPI\\Program.cs",
+              "RelativeToolTip": "ECommerceAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T02:35:33.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\31.01.2025\\APIS\\ECommerceAPI\\ECommerceAPI\\Models\\OrderItem.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Models\\OrderItem.cs",
+              "ToolTip": "D:\\31.01.2025\\APIS\\ECommerceAPI\\ECommerceAPI\\Models\\OrderItem.cs",
+              "RelativeToolTip": "ECommerceAPI\\Models\\OrderItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:39:04.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "D:\\31.01.2025\\APIS\\ECommerceAPI\\ECommerceAPI\\DTOs\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\DTOs\\OrderDTO.cs",
+              "ToolTip": "D:\\31.01.2025\\APIS\\ECommerceAPI\\ECommerceAPI\\DTOs\\OrderDTO.cs",
+              "RelativeToolTip": "ECommerceAPI\\DTOs\\OrderDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T01:17:05.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "D:\\31.01.2025\\APIS\\ECommerceAPI\\ECommerceAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "ECommerceAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "D:\\31.01.2025\\APIS\\ECommerceAPI\\ECommerceAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "ECommerceAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAGAAAAAAAAAAAAAAAHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T12:38:45.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
